@@ -3,7 +3,7 @@ package src
 import (
 	"encoding/base64"
 	"fmt"
-	"quasar-go-sdk/src/cipher"
+	"github.com/PriateXYF/quasar-go-sdk/src/cipher"
 	"strconv"
 	"strings"
 )
