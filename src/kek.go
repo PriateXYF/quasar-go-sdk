@@ -2,7 +2,7 @@ package src
 
 import (
 	"fmt"
-	"quasar-sdk/src/cipher"
+	"quasar-go-sdk/src/cipher"
 	"strings"
 )
 
