@@ -122,3 +122,8 @@ func (b business) GetKek(version int) *kek {
 	}
 	return nil
 }
+
+// 轮换密钥
+func (b business) RotateKek() {
+	fmt.Println("rotate")
+}
